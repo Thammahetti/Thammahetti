@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Student-%20High%20School%20-20B2AA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cybersecurity-grey?style=for-the-badge&logo=man">
----
+
 
 
 
